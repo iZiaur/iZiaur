@@ -1,98 +1,128 @@
-<h1 align="center">Hi, I'm Ziaur Rahman 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer · MERN Stack · Building Scalable Web Applications</b><br/>
-  B.Tech CSE @ VIT Bhopal · 9.14 CGPA · Open to Internships
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:1a2744,100:63b3ed&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-<p align="center">
-  <a href="https://ziaur.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ziaur.dev-0a0f1a?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/md-ziaur-rahman-01031228a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:iziaurofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iziaurofficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+```
+ ╔══════════════════════════════════════════════════╗
+ ║   available for internships · India · he/him     ║
+ ╚══════════════════════════════════════════════════╝
+```
 
-### 🧑‍💻 About Me
+# Ziaur Rahman
 
-- 🔭 Currently building **[BookVilla](https://book-villa.vercel.app)** — a full-stack luxury rental platform (live in production)
-- 🌱 Deepening skills in **DSA, System Design & Backend Engineering**
-- 🏆 NPTEL Top 5% — Marketing Analytics (IIT Kharagpur, 97% score)
-- 🎖️ NPTEL Elite+Silver — Machine Learning (IIT Madras)
-- ☁️ AWS Cloud Foundations Certified
-- 🌍 Open Source Contributor — **GSSoC** & **SWOC**
-- 💼 Open to **Full Stack / Backend Engineering Internships**
+**`Full Stack Engineer · MERN Stack · Building Scalable Web Applications`**
+
+*B.Tech CSE @ VIT Bhopal · 9.14 CGPA · NPTEL Top 5% · AWS Certified*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ziaur.dev-0a0f1a?style=for-the-badge&logo=vercel&logoColor=63b3ed&labelColor=0a0f1a&color=1a2744)](https://ziaur.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0f1a?style=for-the-badge&logo=linkedin&logoColor=63b3ed&labelColor=0a0f1a&color=1a2744)](https://linkedin.com/in/md-ziaur-rahman-01031228a)
+[![Email](https://img.shields.io/badge/Email-iziaurofficial@gmail.com-0a0f1a?style=for-the-badge&logo=gmail&logoColor=63b3ed&labelColor=0a0f1a&color=1a2744)](mailto:iziaurofficial@gmail.com)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### `// about me`
+
+```js
+const ziaur = {
+  location   : "India 🇮🇳",
+  education  : "B.Tech CSE @ VIT Bhopal (9.14 CGPA)",
+  stack      : ["MongoDB", "Express.js", "React.js", "Node.js"],
+  current    : "Building BookVilla — live full-stack rental platform",
+  learning   : ["DSA", "System Design", "Backend Architecture"],
+  openSource : ["GSSoC 2024", "SWOC"],
+  seeking    : "Full Stack / Backend Engineering Internship",
+  contact    : "iziaurofficial@gmail.com"
+};
+```
+
+---
+
+### `// tech stack`
 
 **Frontend**
+![React](https://img.shields.io/badge/React-0a0f1a?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-0a0f1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0a0f1a?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0f1a?style=flat-square&logo=bootstrap&logoColor=7952B3)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-0a0f1a?style=flat-square&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0a0f1a?style=flat-square&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0f1a?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0a0f1a?style=flat-square&logo=mysql&logoColor=4479A1)
 
 **Cloud & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-### 🚀 Featured Project
-
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| **[BookVilla](https://github.com/iZiaur/BookVilla)** | Full-stack luxury rental platform with Cloudinary, MapBox, JWT auth, role-based authorization. 100 Lighthouse BP · 1.4s FCP | Node.js · Express · MongoDB · EJS | [Live ↗](https://book-villa.vercel.app) |
+![AWS](https://img.shields.io/badge/AWS-0a0f1a?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0a0f1a?style=flat-square&logo=cloudinary&logoColor=3448C5)
+![Git](https://img.shields.io/badge/Git-0a0f1a?style=flat-square&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-0a0f1a?style=flat-square&logo=vercel&logoColor=ffffff)
 
 ---
 
-### 📊 GitHub Stats
+### `// featured project`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iZiaur&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZiaur&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
+<table>
+<tr>
+<td width="60%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iZiaur&theme=dark&hide_border=true" height="150" />
-</p>
+**[BookVilla](https://book-villa.vercel.app)** &nbsp; `● Live in Production`
+
+A full-stack luxury rental platform enabling property owners worldwide to list and manage high-end properties — with cloud image hosting, interactive maps, JWT auth, and role-based authorization.
+
+`Node.js` `Express.js` `MongoDB` `Cloudinary` `MapBox` `JWT` `EJS`
+
+</td>
+<td width="40%" align="center">
+
+| Metric | Score |
+|--------|-------|
+| 🟢 Lighthouse BP | **100** |
+| 🔍 SEO | **91** |
+| ⚡ FCP | **1.4s** |
+| 📐 CLS | **0.002** |
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏅 Achievements
+### `// achievements`
 
-- 🥇 **NPTEL Top 5%** — Marketing Analytics, IIT Kharagpur (97% score, Elite + Gold)
-- 🥈 **NPTEL Elite+Silver** — Introduction to Machine Learning, IIT Madras
-- ☁️ **AWS Academy Graduate** — Cloud Foundations
-- 🌐 **Open Source** — GSSoC 2024 & SWOC Contributor
-- 🎤 **Head of Events** — FYI Club VIT Bhopal (300+ attendees)
-- 💼 **E-Cell Finance Team** — Outreach to 100+ companies, 2 sponsors converted
+|  | Achievement |
+|--|-------------|
+| 🥇 | **NPTEL Top 5%** — Marketing Analytics · IIT Kharagpur · 97% score · Elite + Gold Topper |
+| 🥈 | **NPTEL Elite+Silver** — Introduction to Machine Learning · IIT Madras |
+| ☁️ | **AWS Cloud Foundations** — Amazon Web Services Academy Graduate |
+| 🌍 | **Open Source Contributor** — GSSoC 2024 & SWOC |
+| 🎤 | **Head of Events** — FYI Club VIT Bhopal · 300+ attendees |
+| 💼 | **E-Cell Finance Team** — Outreach to 100+ companies · 2 official sponsors secured |
 
 ---
 
-<p align="center">
-  <i>Let's connect if you're building something interesting.</i><br/>
-  <a href="https://ziaur.dev">ziaur.dev</a> · <a href="mailto:iziaurofficial@gmail.com">iziaurofficial@gmail.com</a>
-</p>
+### `// github stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iZiaur&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0a0f1a&title_color=63b3ed&icon_color=63b3ed&text_color=94a3b8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZiaur&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0f1a&title_color=63b3ed&text_color=94a3b8" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iZiaur&theme=github-dark-blue&hide_border=true&background=0a0f1a&ring=63b3ed&fire=a78bfa&currStreakLabel=63b3ed" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:63b3ed,50:1a2744,100:0a0f1a&height=80&section=footer&text=&fontSize=0" width="100%"/>
+
+*Let's connect if you're building something interesting · [ziaur.dev](https://ziaur.dev)*
+
+</div>
