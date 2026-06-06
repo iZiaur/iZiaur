@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://ziaur.dev"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-ziaur.dev-4F9CF9?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://portfolio-ziaur.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-ziaur.dev-4F9CF9?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://linkedin.com/in/md-ziaur-rahman-01031228a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:iziaurofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=iZiaur&style=for-the-badge&color=4F9CF9&label=PROFILE+VIEWS" />
@@ -114,7 +114,7 @@ A full-stack luxury rental platform for property owners worldwide — cloud imag
 
 *Let's connect if you're building something interesting*
 &nbsp; · &nbsp;
-**[ziaur.dev](https://ziaur.dev)**
+**[ziaur.dev](https://portfolio-ziaur.vercel.app/)**
 &nbsp; · &nbsp;
 **[iziaurofficial@gmail.com](mailto:iziaurofficial@gmail.com)**
 
