@@ -75,6 +75,25 @@ A full-stack luxury rental platform for property owners worldwide — cloud imag
 
 <br clear="right"/>
 
+<a href="https://threadly-vert.vercel.app">
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=iZiaur&repo=Ecommerce&theme=tokyonight&hide_border=true" />
+</a>
+
+**[Threadly](https://threadly-vert.vercel.app)** &nbsp; `🟢 Live in Production`
+
+A full-stack MERN e-commerce platform with a customer storefront, admin analytics dashboard, bcrypt password hashing, global search, and Cloudinary image hosting.
+
+| ⚡ Metric | Score |
+|-----------|-------|
+| Performance | **97** |
+| Best Practices | **96** |
+| SEO | **92** |
+| First Contentful Paint | **0.7s** |
+
+`React 19` &nbsp; `Express.js` &nbsp; `Node.js` &nbsp; `MongoDB` &nbsp; `Cloudinary` &nbsp; `JWT`
+
+<br clear="right"/>
+
 ---
 
 ### 📊 &nbsp; GitHub Stats
