@@ -118,7 +118,7 @@ A full-stack MERN e-commerce platform with a customer storefront, admin analytic
 |:--:|-------------|
 | 🥇 | **NPTEL Top 5%** — Marketing Analytics · IIT Kharagpur · 97% · Elite + Gold |
 | 🥈 | **NPTEL Elite+Silver** — Machine Learning · IIT Madras |
-| ☁️ | **AWS Cloud Foundations** — Amazon Web Services Academy |
+| ☁️ | **AWS Certified Solution Architect** — Amazon Training and Certification |
 | 🌍 | **Open Source** — GSSoC 2024 & SWOC Contributor |
 | 🎤 | **Head of Events** — FYI Club VIT Bhopal · 300+ attendees |
 | 💼 | **E-Cell Finance** — 100+ company outreach · 2 sponsors converted |
