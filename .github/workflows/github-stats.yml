@@ -1,0 +1,52 @@
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Stats SVGs
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats Card
+        uses: cicirello/user-statistician@v1
+        id: stats-gen
+        continue-on-error: true
+
+      - name: Download Stats SVG
+        run: |
+          mkdir -p stats
+
+          # GitHub Stats Card
+          curl -fsSL -o stats/github-stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=iZiaur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" \
+            || echo "Stats card fetch failed, will retry next run"
+
+          # Top Languages Card
+          curl -fsSL -o stats/top-langs.svg \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=iZiaur&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" \
+            || echo "Top langs fetch failed, will retry next run"
+
+          # Streak Stats Card
+          curl -fsSL -o stats/streak-stats.svg \
+            "https://streak-stats.demolab.com/?user=iZiaur&theme=tokyonight&hide_border=true" \
+            || echo "Streak stats fetch failed, will retry next run"
+
+      - name: Commit and push generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats/
+          git diff --cached --quiet || git commit -m "chore: update GitHub stats cards"
+          git push

@@ -100,11 +100,11 @@ A full-stack MERN e-commerce platform with a customer storefront, admin analytic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iZiaur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+<img src="./stats/github-stats.svg" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZiaur&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+<img src="./stats/top-langs.svg" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=iZiaur&theme=tokyonight&hide_border=true" height="170"/>
+<img src="./stats/streak-stats.svg" height="170"/>
 
 </div>
 
