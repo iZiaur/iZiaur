@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4F9CF9&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;MERN+Stack+%7C+React+%7C+Node.js;9.14+CGPA+%40+VIT+Bhopal;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4F9CF9&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;MERN+Stack+%7C+React+%7C+Node.js;9.15+CGPA+%40+VIT+Bhopal;)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ```javascript
 const ziaur = {
-  education  : "B.Tech CSE @ VIT Bhopal  |  9.14 CGPA",
+  education  : "B.Tech CSE @ VIT Bhopal  |  9.15 CGPA",
   stack      : ["MongoDB", "Express.js", "React.js", "Node.js"],
   current    : "Building BookVilla — deployed full-stack rental platform",
   learning   : ["DSA", "System Design", "Backend Architecture"],
